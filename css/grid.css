@@ -1,0 +1,52 @@
+.eigenBreedte{
+	width: 90%;
+}
+
+.kortingscode{
+	width: 410px;
+	height: 110px;
+}
+
+.header{
+	background-color: #651C2F;
+	height: 218px;
+}
+
+.kortingscodeKolom{
+	text-align: right;
+	padding-top: 54px;
+}
+
+.row.no-gutter-header{
+  margin-right: 0;
+}
+
+.row.no-gutter-header [class*='col-']:not(:first-child),
+.row.no-gutter-header [class*='col-']:not(:last-child) {
+  padding-right: 0;
+}
+
+.logo{
+	width: 181px;
+	height: 180px;
+}
+
+.logoKolom{
+	padding-top: 19px;
+}
+
+.carousel{
+	width: 100%;
+	height: 987px;
+}
+
+.no-padding-left{
+	padding-left: 0;
+	padding-right: 0;
+}
+
+
+
+
+
+
